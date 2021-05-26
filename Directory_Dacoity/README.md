@@ -4,7 +4,7 @@ Author: AdamWHY2K
 
 # Description
 This script is intended to exfiltrate the layout of important directories (Documents, Pictures, Videos, etc. The exact directories can be changed.)
-This is my first project of this kind, I encourage critisism and ideas.
+This is my first project of this kind, I encourage criticism and ideas.
 
 ## Config
 
