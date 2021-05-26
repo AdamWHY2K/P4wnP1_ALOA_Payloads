@@ -11,3 +11,5 @@ This is my first project of this kind, I encourage critisism and ideas.
 * Enable HID Keyboard and USB Mass Storage under USB SETTINGS.
 * Copy **Directory_Dacoity.js** to ```/usr/local/P4wnP1/HIDScripts/```.
 * Create a trigger than executes "Directory_Dacoity.js" when USB gadget connected to host.
+
+### Remember to change your layout, if it's not gb-2
