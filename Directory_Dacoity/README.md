@@ -4,7 +4,9 @@ Author: AdamWHY2K
 
 # Description
 This script is intended to exfiltrate the layout of important directories, the exact directories can be changed.
+
 Directories it will exfiltrate by default: Documents, Pictures, Videos, Downloads, Recycle Bin.
+
 This is my first project of this kind, I encourage criticism and ideas.
 
 ## Config
