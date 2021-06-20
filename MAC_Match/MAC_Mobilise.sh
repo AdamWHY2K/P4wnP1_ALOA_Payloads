@@ -4,7 +4,7 @@ P4wnP1_cli usb set --rndis;
 #Once MAC_Match is completed eject USB storage
 sleep 3;
 mount -o loop /usr/local/P4wnP1/ums/flashdrive/2GB_FAT.bin /mnt/;
-#Mount USB partition to P4wnP1 filesystem
+#Mount USB partition to P4wnP1 filesystem, replace "2GB_FAT.bin" with the name of your partition file
 sleep 1;
 if [ -e "/mnt/OPFOR" ];
 #If file created by MAC_Match exists
