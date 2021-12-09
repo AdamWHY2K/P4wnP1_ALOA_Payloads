@@ -9,7 +9,7 @@ Directories it will exfiltrate by default: Documents, Pictures, Videos, Download
 
 This is my first project of this kind, I encourage criticism and ideas.
 
-https://user-images.githubusercontent.com/68286215/145438086-02cbdfad-656e-4be9-9b6d-a5cc44fca197.mp4
+https://user-images.githubusercontent.com/68286215/145438662-d4bf229b-c5a6-49d4-8a03-e544d1654ec9.mp4
 
 ## Config
 
