@@ -7,7 +7,7 @@ This program is intended to exfiltrate browser history, downloads, and bookmarks
 
 Currently supported browsers are: Chrome, Firefox, Brave, Edge, and Opera.
 
-https://user-images.githubusercontent.com/68286215/145433262-a35fb575-9c34-47ce-a347-07d9ebdf7d9d.mp4
+https://user-images.githubusercontent.com/68286215/145438276-f98db2c9-1190-4980-af44-18c053dfbdee.mp4
 
 ## Config
 
